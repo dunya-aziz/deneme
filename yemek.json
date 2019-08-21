@@ -4,9 +4,9 @@
 	"yemek_adi":"",
 	"yemek_aciklama":"",
 	"yemek_tur":"",
-	"yemek_pisirme_suresi":
-	"yemek_hazirlama_suresi":,
-	"yemek_kisi_sayisi":,
+	"yemek_pisirme_suresi":"",
+	"yemek_hazirlama_suresi":"",
+	"yemek_kisi_sayisi":"",
 	"yemek_resim":"",
 	"yemek_malzemeler":""
 	},
@@ -15,9 +15,9 @@
 	"yemek_adi":"",
 	"yemek_aciklama":"",
 	"yemek_tur":"",
-	"yemek_pisirme_suresi":
-	"yemek_hazirlama_suresi":,
-	"yemek_kisi_sayisi":,
+	"yemek_pisirme_suresi":"",
+	"yemek_hazirlama_suresi":"",
+	"yemek_kisi_sayisi":"",
 	"yemek_resim":"",
 	"yemek_malzemeler":""
 	},	
@@ -25,9 +25,9 @@
 	"yemek_adi":"",
 	"yemek_aciklama":"",
 	"yemek_tur":"",
-	"yemek_pisirme_suresi":
-	"yemek_hazirlama_suresi":,
-	"yemek_kisi_sayisi":,
+	"yemek_pisirme_suresi":"",
+	"yemek_hazirlama_suresi":"",
+	"yemek_kisi_sayisi":"",
 	"yemek_resim":"",
 	"yemek_malzemeler":""
 	},
@@ -36,14 +36,11 @@
 	"yemek_adi":"",
 	"yemek_aciklama":"",
 	"yemek_tur":"",
-	"yemek_pisirme_suresi":
-	"yemek_hazirlama_suresi":,
-	"yemek_kisi_sayisi":,
+	"yemek_pisirme_suresi":"",
+	"yemek_hazirlama_suresi":"",
+	"yemek_kisi_sayisi":"",
 	"yemek_resim":"",
 	"yemek_malzemeler":""
 	}
 
 ]}
-
-
-
